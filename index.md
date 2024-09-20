@@ -42,7 +42,7 @@ Welcome to the University IT Enrollment page! This page provides information for
     - **Email**: university.of.oulu@oulu.fi
     - **Phone**: +358 29448 0000
    
-    ![University Campus](https://navi.finnisharchitecture.fi/university-of-oulu-linnanmaa-campus/#&gid=1&pid=1)
+    ![University Campus](./Kirjatori_1500px-768x432.jpg)
 
     ## Testimonials
 
